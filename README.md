@@ -136,3 +136,13 @@ Linear framebuffer improves memory throughput
 make clean
 make
 ./cudart > out.ppm
+گ÷
+```
+## 9) References
+
+- **Ray Tracing in One Weekend**  
+  https://raytracing.github.io/books/RayTracingInOneWeekend.html  
+
+Authors: Peter Shirley, Trevor David Black, Steve Hollasch  
+
+This project is based on the concepts from the book, extended with CUDA acceleration, BVH structures, and performance optimizations.
