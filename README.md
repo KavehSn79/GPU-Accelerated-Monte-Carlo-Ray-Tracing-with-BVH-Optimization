@@ -136,7 +136,6 @@ Linear framebuffer improves memory throughput
 make clean
 make
 ./cudart > out.ppm
-گ÷
 ```
 ## 9) References
 
