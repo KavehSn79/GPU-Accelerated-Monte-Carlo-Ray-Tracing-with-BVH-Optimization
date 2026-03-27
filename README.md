@@ -59,7 +59,7 @@
 
 ## 3) Project Poster
 
-![Project Poster](./poster.png)
+![Project Poster](./GPU-Computing-Poster.png)
 
 > The poster highlights:
 > - Rendering pipeline  
@@ -116,7 +116,7 @@ Linear framebuffer improves memory throughput
 
 ## 6) Output Image
 
-![Rendered Output](./output.png)
+![Rendered Output](./out.png)
 
 > Generated as `.ppm` and converted to `.png`
 
